@@ -1,6 +1,75 @@
 # Barbeari_Ze
 Site Desenvolvedor Front-End
 
+https://dozebarbershop.github.io/Barbearia/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
