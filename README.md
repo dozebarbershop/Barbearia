@@ -1,4 +1,4 @@
-# Barbeari_Ze
+# Barbearia_Ze
 Site Desenvolvedor Front-End
 
 https://dozebarbershop.github.io/Barbearia/
